@@ -1,0 +1,1 @@
+{"jumping_jacks_down": 0, "jumping_jacks_up": 1, "pullups_down": 2, "pullups_up": 3, "pushups_down": 4, "pushups_up": 5, "situp_down": 6, "situp_up": 7, "squats_down": 8, "squats_up": 9}
